@@ -1,0 +1,9 @@
+[requires]
+python_version = "3.11"
+
+[packages]
+pandas = "*"
+pyqt5 = "*"
+matplotlib = "*"
+pytest = "*"
+pytest-qt = "*"
